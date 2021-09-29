@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "x_malloc.h": "c",
+        "x_memory.h": "c"
+    }
+}
